@@ -1,0 +1,17 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  main.cpp
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(218,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(269,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(272,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(276,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(363,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(368,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(383,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(405,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(423,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\main.cpp(439,27): warning C4018: '<': signed/unsigned mismatch
+  shader.cpp
+  Generating Code...
+  project.vcxproj -> C:\Users\tudor\OneDrive\Desktop\ProjectPart1_final\ProjectPart1\Part1\Debug\Project.exe
